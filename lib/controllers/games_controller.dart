@@ -1,4 +1,4 @@
-import 'package:flutter_task/mock_data/mock_data.dart';
+import 'package:flutter_task/mock_data.dart';
 import 'package:flutter_task/models/game.dart';
 import 'package:flutter_task/models/game_section.dart';
 import 'package:get/state_manager.dart';
